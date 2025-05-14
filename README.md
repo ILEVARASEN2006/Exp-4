@@ -38,7 +38,7 @@ Create the following diagrams in StarUML:
 
 ## Communication Diagram
 
-![CommunicationDiagram1](https://github.com/user-attachments/assets/f086f92d-b776-4793-b057-8ddafb65f998)
+![image](https://github.com/user-attachments/assets/6933315f-6a58-40ad-9755-52bad56a3d54)
 
 ## Sequence Diagram
 
